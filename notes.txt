@@ -1,2 +1,11 @@
 Git is a version control system.
 Commits have unique IDs
+
+Day 2:
+
+Learned what restore and reset do!
+
+got to know about .gitignore and placed a few files inside it.
+
+
+git clean -f ====> deletes all untracked files forever
